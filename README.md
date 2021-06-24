@@ -1,2 +1,2 @@
-# calm-pastel
-a series of themes featuring calming pastel colors
+# Calm Pastel 1 (Chrome)
+A theme featuring calming pastel colors, nothing more.
