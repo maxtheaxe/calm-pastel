@@ -1,4 +1,4 @@
-# calm pastel 1 (chrome)
-a theme featuring calming pastel colors, nothing more
+# Calm Pastel 1 (Chrome)
+A theme featuring calming pastel colors, nothing more.
 
-[chrome web store](https://chrome.google.com/webstore/detail/calm-pastel/imdohlkcabmmbnoidbgjdjhnnoflofdk)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/calm-pastel/imdohlkcabmmbnoidbgjdjhnnoflofdk)
